@@ -5,6 +5,7 @@
 To create a web application from scratch! A portfolio that satisfies a typical hiring manager’s needs.
 
 
+
 ## User Story
 
 ```
@@ -14,15 +15,38 @@ SO THAT I can review samples of their work and assess whether they're a good can
 ```
 
 
+## Acceptance Criteria
+
+Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+
+```
+GIVEN I need to sample a potential employee's previous work
+WHEN I load their portfolio
+THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
+WHEN I click one of the links in the navigation
+THEN the UI scrolls to the corresponding section
+WHEN I click on the link to the section about their work
+THEN the UI scrolls to a section with titled images of the developer's applications
+WHEN I am presented with the developer's first application
+THEN that application's image should be larger in size than the others
+WHEN I click on the images of the applications
+THEN I am taken to that deployed application
+WHEN I resize the page or view the site on various screens and devices
+THEN I am presented with a responsive layout that adapts to my viewport
+```
+
+
 ## My Task
 
-WHEN a hiring manager loads my portofolio, then they are presented with my name, a photo, and links about me, my work and how to contact me.  
-WHEN they click on one of my links in the navigation, THEN my UI scrolls to the corresponding secton
-WHEN they click on the link to the section about my work, THEN the UI scrolls to a section with titled images of the my applications
-WHEN they are presented with my first application, THEN that application's image shall be larger in the size than the others
-WHEN they click on the images of the application, THEN will be taken to that of deployed application
-WHEN they resize the page or view the site on various screens and devices, THEN they are presented with a responsive layout that adapts to their viewport
-
+* Created a Portfolio that contains links to GitHub profile, LinkedIn Profile, and Resume PDF.
+* Portfolio displays examples of projects from deployed projects/homeworks 
+* All of the projects have title, deployment URL, GitHub URL, and a screenshots.
+* Portfolio's user interface is responsive and polished.
+* GitHub profile contains a bio, email, and link to deployed portfolio.
+* Each pinned projects have a README containing project descriptions, screenshots, and links to deployed applications.
+* Followed few developers on GitHub
+* Attached a concise and tailored resume 
+* Added a strong bio statement to LinkedIn profile, professional photo, and links to GitHub and portfolio.
 
 
 ## Mock-Up
