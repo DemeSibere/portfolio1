@@ -29,12 +29,12 @@ WHEN they resize the page or view the site on various screens and devices, THEN 
 
 This project has been deployed to GitHub pages.
 
-* GitHub Repository: https://github.com/DemeSibere/my-personal-portofolio-
-* Deployed GitHub Page: https://demesibere.github.io/my-personal-portofolio-/
-* Portofolio Demo:
-![The following animation shows the web application's appearance and functionality portfolio demo](./Assets/portofoliodemo.gif)
-
+* GitHub Repository: https://github.com/DemeSibere/updated-portodolio-page
+* Deployed GitHub Page: https://demesibere.github.io/updated-portodolio-page/
 * Portofolio Demo with local storage:
+![The following animation shows the web application's appearance and functionality portfolio demo](./Assets/updated-portfolio-page.gif)
 
-![The following animation shows the web application's appearance and functionality portfolio demo](./Assets/localstoragedemo..gif)
+* Screenshot of the deployed page:
+
+![The following animation shows the web application's appearance and functionality portfolio demo](./Assets/portofolio-page.png)
 
