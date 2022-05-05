@@ -1,4 +1,4 @@
-# My Portfolio
+# My Updated Portfolio
 
 ## Expectation
 
@@ -62,3 +62,19 @@ This project has been deployed to GitHub pages.
 
 ![The following animation shows the web application's appearance and functionality portfolio demo](./Assets/portofolio-page.png)
 
+_________
+
+## Other Project Samples
+
+* Passwork Generator: https://demesibere.github.io/my-password-generator-hw/
+* Code Quiz: https://demesibere.github.io/code-quiz-hw/
+* Day Planner: https://demesibere.github.io/MyWork-Day-Scheduler/
+* Weather Dashboard: https://demesibere.github.io/my-weather-dashboard/
+* National Park Locator Group Project: https://github.com/Kevno5/ProjectOne
+* Good README Generator: https://github.com/DemeSibere/myReadMe-Generator-
+* Team Profile Generator: https://github.com/DemeSibere/myteam-profile-generator
+
+___
+```
+For Any Addistional questions, you may reach me at: 
+            Email: demesibere16@gmail.com```
