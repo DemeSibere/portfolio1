@@ -66,9 +66,11 @@ This project has been deployed to GitHub pages.
 * Portofolio Demo with local storage:
 ![The following animation shows the web application's appearance and functionality portfolio demo](./Assets/updated-portfolio-page.gif)
 
-* Screenshot of the deployed page:
+* Screenshots of the deployed page:
 
-
+!['About me' section of the deployed application](./Assets/contactme-img.png)
+!['My projects' section of the deployed application](./Assets/myprojects-img.png)
+!['Contact me' section of the deployed application](./Assets/contactme-img.png)
 ![The following animation shows the web application's appearance and functionality portfolio demo](./Assets/portofolio-page.png)
 
 _________
