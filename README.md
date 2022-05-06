@@ -6,13 +6,16 @@ To create a web application from scratch! A portfolio that satisfies a typical h
 These portfolios will assess your skills and show the thought process behind each project. Several projects 
 created in the future will be added and displayed in this portfolio.
 
+
 ## Table of Contents
-    1. User Story 
-    2. Acceptance Criteria 
-    3. My Task
-    4. Mock-Up
-    5. Other Project Samples
-    6. Questions 
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [My Task](#my-task)
+- [Mock-Up](#mock-up)
+- [Project Samples](#project-samples)
+- [Questions](#questions)
+
 
 ## User Story
 
@@ -75,7 +78,7 @@ This project has been deployed to GitHub pages.
 
 _________
 
-## Other Project Samples
+## Project Samples
 
 * Passwork Generator: https://demesibere.github.io/my-password-generator-hw/
 * Code Quiz: https://demesibere.github.io/code-quiz-hw/
@@ -85,7 +88,8 @@ _________
 * Good README Generator: https://github.com/DemeSibere/myReadMe-Generator-
 * Team Profile Generator: https://github.com/DemeSibere/myteam-profile-generator
 
-___
+## Questions
+
 For Inquries about projects, you may contact me via Github: 
         ``
             Github: DemeSibere``` ``
