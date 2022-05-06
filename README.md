@@ -13,6 +13,7 @@ created in the future will be added and displayed in this portfolio.
 - [Acceptance Criteria](#acceptance-criteria)
 - [My Task](#my-task)
 - [Mock-Up](#mock-up)
+- [Technologies Used](#technologies-used)
 - [Project Samples](#project-samples)
 - [Questions](#questions)
 
