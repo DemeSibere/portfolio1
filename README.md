@@ -12,7 +12,7 @@ created in the future will be added and displayed in this portfolio.
     3. My Task
     4. Mock-Up
     5. Other Project Samples
-    6. 
+    6. Questions 
 
 ## User Story
 
@@ -68,7 +68,7 @@ This project has been deployed to GitHub pages.
 
 * Screenshots of the deployed page:
 
-!['About me' section of the deployed application](./Assets/contactme-img.png)
+!['About me' section of the deployed application](./Assets/aboutme-img.png)
 !['My projects' section of the deployed application](./Assets/myprojects-img.png)
 !['Contact me' section of the deployed application](./Assets/contactme-img.png)
 ![The following animation shows the web application's appearance and functionality portfolio demo](./Assets/portofolio-page.png)
