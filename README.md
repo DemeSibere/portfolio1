@@ -77,6 +77,12 @@ This project has been deployed to GitHub pages.
 ![The following animation shows the web application's appearance and functionality portfolio demo](./Assets/portofolio-page.png)
 
 _________
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript and 
+- Bootstrap 
 
 ## Project Samples
 
