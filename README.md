@@ -1,10 +1,18 @@
 # My Updated Portfolio
 
-## Expectation
+## Discription
 
-To create a web application from scratch! A portfolio that satisfies a typical hiring manager’s needs.
+To create a web application from scratch! A portfolio that satisfies a typical hiring manager’s needs. 
+These portfolios will assess your skills and show the thought process behind each project. Several projects 
+created in the future will be added and displayed in this portfolio.
 
-
+## Table of Contents
+    1. User Story 
+    2. Acceptance Criteria 
+    3. My Task
+    4. Mock-Up
+    5. Other Project Samples
+    6. 
 
 ## User Story
 
@@ -60,6 +68,7 @@ This project has been deployed to GitHub pages.
 
 * Screenshot of the deployed page:
 
+
 ![The following animation shows the web application's appearance and functionality portfolio demo](./Assets/portofolio-page.png)
 
 _________
@@ -75,6 +84,11 @@ _________
 * Team Profile Generator: https://github.com/DemeSibere/myteam-profile-generator
 
 ___
-```
+For Inquries about projects, you may contact me via Github: 
+        ``
+            Github: DemeSibere``` ``
+
 For Any Addistional questions, you may reach me at: 
-            Email: demesibere16@gmail.com```
+```
+            Email: demesibere16@gmail.com`
+
